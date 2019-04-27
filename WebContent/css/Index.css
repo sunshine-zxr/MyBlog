@@ -1,0 +1,9 @@
+@charset "UTF-8";
+div.outer {
+    margin: 5% 10% 2% 10%;
+}
+
+.navbar-brand {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, Helvetica, STKaiti, SimSun, serif;
+    font-size: 100%;
+}
